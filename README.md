@@ -1,2 +1,2 @@
 # FoldWalker: Stochastic Sampling for Protein Conformational Space
-What if we could estimate the number of proteins that can be done from an aminoacid sequence? let's try to approach that problem from MCMC methods.
+A group of algorithms to show the capabilities of MCMC methods to sample protein folding from aminoacid sequences. 
